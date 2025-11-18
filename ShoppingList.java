@@ -2,7 +2,7 @@ package AutomaticGroceryListForMyGF;
 
 public class ShoppingList {
     
-    private String[] groceries;
+    private List<String> groceries;
 
     public void add() {}
 
@@ -20,7 +20,7 @@ public class ShoppingList {
     public String toString() {
         Strign str = "ShoppingList:\n";
         for (int i = 0; i < groceries.length; i++) {
-            str = str + i + ": " + groceries[i] + "\n";
+            str = str + i + ": " + groceries.get(i) + "\n";
         }
         return str;
     }
