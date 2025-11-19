@@ -9,7 +9,7 @@ Salsiccia pasta,salsicciafärs,pasta,chalottenlök,vitlök,krossade tomater,vitv
 Teriyaki färs m. Vitkål,teriyaki,vitkål,ris,nöttfärs,vitlök,sesamolja,mirin,wokgrönsaker,soja,vitpeppar,msg
 Varma smörgåsar med köttfärs,ciabatta,nöttfärs,haricovert,svarta oliver,rödlök,chili,vitlök
 
-Curry gryta m. Ris och kyckling
+Curry gryta m. Ris och kyckling,
 
 Kycklingklubbor m äpple potatis bacon
 
@@ -78,4 +78,4 @@ Thai kyckling köttbullar
 
 Chorizo soppa
 
-Köttfärslimpa
+Köttfärslimpa,rosmarin,blandfärs,ströbröd,mjölk,vitlök,äpple(2),rödlök(2),timjan
